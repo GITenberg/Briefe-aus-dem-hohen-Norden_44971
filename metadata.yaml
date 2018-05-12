@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '43012'
     url: http://www.gutenberg.org/2009/agents/43012
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44971#Briefe-aus-dem-hohen-Norden
 gutenberg_issued: '2014-02-20'
 gutenberg_type: Text
 identifiers:
